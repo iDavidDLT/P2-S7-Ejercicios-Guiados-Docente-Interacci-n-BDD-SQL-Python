@@ -1,0 +1,6 @@
+{
+  "name_server": "DAVID",
+  "database": "UDEMYTEST1",
+  "controlador_odbc": "SQL Server",
+  "trusted_connection": "yes"
+}
